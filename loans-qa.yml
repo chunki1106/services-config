@@ -5,7 +5,7 @@ loans:
   message: "Welcome to EazyBank loans related qa APIs "
   contactDetails:
     name: "loan qa - Developer"
-    email: "qa@eazybank.com"
+    email: "{cipher}69d935ce3575431d08290f6fb41a3b63db4b0942e40aaf777dac1e1c56ecc2b8"
   onCallSupport:
     - (555) 555-2356
     - (555) 523-7865

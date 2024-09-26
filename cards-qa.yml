@@ -1,0 +1,8 @@
+cards:
+  message: "Welcome to EazyBank cards related qa APIs "
+  contactDetails:
+    name: "loan qa - Developer"
+    email: "qa@eazybank.com"
+  onCallSupport:
+    - (555) 555-3456
+    - (555) 523-4567

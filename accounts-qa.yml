@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related qa APIs "
+  contactDetails:
+    name: "lead Doe - Developer"
+    email: "lead@eazybank.com"
+  onCallSupport:
+    - (555) 555-2356
+    - (555) 523-7896

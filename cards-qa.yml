@@ -1,5 +1,5 @@
 cards:
-  message: "Welcome to EazyBank cards related to qa APIs "
+  message: "Welcome to EazyBank cards related to qa webhook APIs "
   contactDetails:
     name: "loan qa - Developer"
     email: "qa@eazybank.com"

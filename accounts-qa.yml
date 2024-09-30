@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related to webhook APIs "
+  message: "Welcome to EazyBank accounts related to actuator  webhook APIs "
   contactDetails:
     name: "lead Doe - Developer"
     email: "lead@eazybank.com"
